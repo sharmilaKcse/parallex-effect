@@ -1,0 +1,14 @@
+*{font-family: arial; margin: 0; padding: 0;}
+
+.fullwidth{width: 100%; float: left;}
+
+.cityimg{background-image: url("../image/city.jpg"); min-height: 500px; background-attachment: fixed;background-position: center; background-repeat: no-repeat;background-size: cover;}
+
+.bulletimg{background-image: url("../image/bullet.jpeg"); min-height: 500px; background-attachment: fixed;background-position: center; background-repeat: no-repeat;background-size: cover;}
+
+.sunsetimg{background-image: url("../image/sunset.jpeg"); min-height: 500px; background-attachment: fixed;background-position: center; background-repeat: no-repeat;background-size: cover;}
+
+
+.white{width: 100%; float: left;padding: 30px 50px; background: #fff; color:#111; font-size: 16px; line-height: 22px; box-sizing: border-box;}
+
+.black{width: 100%; float: left; padding: 30px 50px; background: #111; color:#fff; font-size: 16px; line-height: 22px; box-sizing: border-box;}
